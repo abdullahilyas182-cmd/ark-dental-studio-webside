@@ -1,0 +1,6 @@
+{
+  "name": "ARK Dental",
+  "description": "ARK Dental — Premium dental clinic and clinical operating system featuring aesthetic smile design, dental implants, orthodontics, and Dr. Muhammad Ali Riaz Khan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
